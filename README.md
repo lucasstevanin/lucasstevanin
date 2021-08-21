@@ -6,6 +6,8 @@
 - 🧠 Estou aprendendo JavaScript e revisando HTML e CSS <br>
 (e sei um pouco de python também...)
 
+  ##
+
 <div>
   <a href="https://github.com/lucasstevanin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasstevanin&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
