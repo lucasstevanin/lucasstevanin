@@ -1,4 +1,4 @@
-## Eae, tudo bem? Eu sou o Lucas Stevanin!
+## Eae, tudo bem? Eu sou o Lucas Stevanin! 🇧🇷
 
 - 🙋🏻‍♂️ Tenho 20 anos
 - 🛸 Graduando em Física
