@@ -1,6 +1,6 @@
 ## Eae, tudo bem? Eu sou o Lucas Stevanin! :brazil:
 
-- 🙋🏻‍♂️ Tenho 20 anos
+- 🙋🏻‍♂️ Tenho 21 anos
 - 🛸 Graduando em Física
 - Trabalho fora da área no momento, com o objetivo de logo logo estar nela!
 - 🧠 Estou aprendendo JavaScript e revisando HTML e CSS <br>
