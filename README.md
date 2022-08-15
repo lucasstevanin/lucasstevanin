@@ -1,11 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4405f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Stevanin+;I'm+21+years+old;I+from+Bauru,+SP;I+am+Web+Developer+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<br/>
+<br/>
+
 ## 📊 My Github Stats
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasstevanin&show_icons=true&count_private=true&hide_border=true&title_color=e4405f&icon_color=00bfbf&text_color=c9d1d9&bg_color=e4405f" alt="Lucas Stevanin github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasstevanin&layout=compact&hide_border=true&title_color=e4405f&text_color=c9d1d9&bg_color=0d1117" />
 </div>
+
+<br/>
 
 ## 🚀 Languages and Tools:
 
@@ -22,6 +27,9 @@
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/notion--v1.png"/> </a>
 </p>
+
+<br/>
+<br/>
   
 ## Connect with me:
  
@@ -31,11 +39,16 @@
   <a href="https://www.linkedin.com/in/lucas-stevanin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<br/>
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=lucasstevanin">
 </a>
 <a href="https://github.com/lucasstevanin?tab=followers"><img src="https://img.shields.io/github/followers/lucasstevanin?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br/>
+<br/>
 
    ![Snake animation](https://github.com/lucasstevanin/lucasstevanin/blob/output/github-contribution-grid-snake.svg)
  
