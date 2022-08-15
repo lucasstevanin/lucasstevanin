@@ -1,3 +1,7 @@
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/26xBwdIuRJiAIqHwA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/art-animation-hello-26xBwdIuRJiAIqHwA">via GIPHY</a></p>
+
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4405f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Stevanin+;I'm+21+years+old;I+from+Bauru,+SP;I+am+Web+Developer+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br/>
