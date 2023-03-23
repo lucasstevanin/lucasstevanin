@@ -8,7 +8,7 @@
 
 - 🟢🟡 I'am from Brazil
 
-- 🌱 Currently learning **ReactJS and AI**
+- 🌱 Currently learning **ReactJS, Python and AI**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://lucasstevanin.github.io/portfolio/)**
 
