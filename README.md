@@ -1,6 +1,6 @@
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4405f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Stevanin+;I'm+21+years+old;I+from+Bauru,+SP+;I+am+Web+Developer+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4405f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Stevanin+;I'm+22+years+old;I+from+Bauru,+SP+;I+am+Web+Developer+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 - 🌱 Currently learning **ReactJS, Python and AI**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://lucasstevanin.github.io/portfolio/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio]([https://lucasstevanin.github.io/portfolio/](https://lucasstevanin.vercel.app/))**
 
 - 📫 How to reach me **lucasstevanin@gmail.com**
 
