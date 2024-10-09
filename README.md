@@ -8,13 +8,13 @@
 
 - 🟢🟡 I'am from Brazil
 
-- 🌱 Currently learning **ReactJS, Python and AI**
+- 🌱 Currently learning **VueJs, Django and AI**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio]([https://lucasstevanin.github.io/portfolio/](https://lucasstevanin.vercel.app/))**
 
 - 📫 How to reach me **lucasstevanin@gmail.com**
 
-- ⚡ Fun fact **I love play games and listen music.**
+- ⚡ Fun fact **I love play games, sports and listen music.**
 
 <br/>
 
@@ -41,6 +41,7 @@
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/notion--v1.png"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/> </a>
 </p>
 
 <br/>
