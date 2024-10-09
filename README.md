@@ -1,6 +1,6 @@
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4405f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Stevanin+;I'm+22+years+old;I+from+Bauru,+SP+;I+am+Web+Developer+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e4405f&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Stevanin+;I'm+23+years+old;I+from+Bauru,+SP+;I+am+Web+Developer+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 - 🟢🟡 I'am from Brazil
 
-- 🌱 Currently learning **VueJs, Django and AI**
+- 🌱 Currently studying higher education in **Systems Analysis and Development**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio]([https://lucasstevanin.github.io/portfolio/](https://lucasstevanin.vercel.app/))**
 
@@ -42,6 +42,8 @@
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/notion--v1.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> </a>
 </p>
 
 <br/>
