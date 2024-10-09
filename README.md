@@ -44,6 +44,7 @@
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/> </a>
 </p>
 
 <br/>
